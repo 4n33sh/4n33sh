@@ -7,6 +7,7 @@ I'm an cybersecurity novice, eager to work and hone my skillset in this dynamic 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4n33sh&show_icons=true&theme=highcontrast)
 
 </div>
+
 ## My Projects 📂:
 
 - [**REDACT**](https://github.com/4n33sh/REDACT)
