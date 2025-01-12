@@ -13,7 +13,7 @@ I'm an cybersecurity novice, eager to work and hone my skillset in this dynamic 
 - [**REDACT**](https://github.com/4n33sh/REDACT)
 - [**macchanger**](https://github.com/4n33sh/RandomMAC_Changer)
 
-## Connect 🌍?
+## Contact Me 🌍:
 
 - **GitHub** : [github.com/4n33sh](https://github.com/4n33sh)  
 - **Linkedin** : [linkedin.com/in/aneesh-sai-praneeth](https://linkedin.com/in/aneesh-sai-praneeth)
