@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Aneesh Sai Praneeth
 
-I'm an cybersecurity novice, eager to work and hone my skillset in this dynamic field. I stay current with the latest technological trends and seek networking opportunities to broaden my perspectives.
+Hello! I'm an cybersec. enthusiast with an vast array of repos. based on providing security tools for easy and secure code deployment. Check them out!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4n33sh&show_icons=true&theme=highcontrast)
 
