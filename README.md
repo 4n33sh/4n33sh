@@ -16,6 +16,7 @@ Hello! I'm an cybersec. enthusiast with an vast array of repos. based on providi
 
 ## Contact Me 🌍:
 
+- **Email** : [aneesh.sp222@gmail.com](mailto:aneesh.sp222@gmail.com)
 - **GitHub** : [github.com/4n33sh](https://github.com/4n33sh)  
 - **Linkedin** : [linkedin.com/in/aneesh-sai-praneeth](https://linkedin.com/in/aneesh-sai-praneeth)
   
