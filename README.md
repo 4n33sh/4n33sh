@@ -8,10 +8,13 @@ Hello! I'm an cybersec. enthusiast with an vast array of repos. based on providi
 
 </div>
 
-## My Projects/Contributions 📂:
+## My Featured Projects 📂:
 
 - [**REDACT**](https://github.com/4n33sh/REDACT)
 - [**macchanger**](https://github.com/4n33sh/RandomMAC_Changer)
+
+## Projects I've contributed to 🛠️ : 
+
 - [**Project Management & Data Visualization**](https://github.com/Tushar-sugandhi/Hyper-Coders)
 
 ## Contact Me 🌍:
